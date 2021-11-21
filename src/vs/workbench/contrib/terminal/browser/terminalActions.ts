@@ -1701,13 +1701,13 @@ export function registerTerminalActions() {
 				}
 			});
 		}
-		async run(accessor: ServicesAccessor, eventOrOptions: MouseEvent | ICreateTerminalOptions | undefined) {
+		async run(accessor: ServicesAccessor, eventOrOptions: MouseEvent | ICreateTerminalOptions | undefined, testFolders?: IWorkspaceFolder[]) {
 			const terminalService = accessor.get(ITerminalService);
 			const terminalGroupService = accessor.get(ITerminalGroupService);
 			const workspaceContextService = accessor.get(IWorkspaceContextService);
 			const commandService = accessor.get(ICommandService);
 			const configurationService = accessor.get(IConfigurationService);
-			const folders = workspaceContextService.getWorkspace().folders;
+			const folders = workspaceContextService.getWorkspace().folders || testFolders;
 			if (eventOrOptions && eventOrOptions instanceof MouseEvent && (eventOrOptions.altKey || eventOrOptions.ctrlKey)) {
 				const activeInstance = terminalService.activeInstance;
 				if (activeInstance) {
