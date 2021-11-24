@@ -39,7 +39,7 @@
     "@types/through2": "^2.0.34",
     "@types/tmp": "^0.2.1",
     "@types/underscore": "^1.8.9",
-    "@types/webpack": "^4.41.25",
+    "@types/webpack": "4.41.32",
     "@types/xml2js": "0.0.33",
     "@typescript-eslint/experimental-utils": "~2.13.0",
     "@typescript-eslint/parser": "^3.3.0",
