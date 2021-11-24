@@ -462,10 +462,10 @@ string_decoder@~0.10.x:
   resolved "https://registry.yarnpkg.com/string_decoder/-/string_decoder-0.10.31.tgz#62e203bc41766c6c28c9fc84301dab1c5310fa94"
   integrity sha1-YuIDvEF2bGwoyfyEMB2rHFMQ+pQ=
 
-tas-client-umd@0.1.4:
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/tas-client-umd/-/tas-client-umd-0.1.4.tgz#49db4130dd63a8342fabf77185a740fc6a7bea80"
-  integrity sha512-1hFqJeLD3ryNikniIaO7TItlXhS5vx7bJ+wbPDf8o+IifgwwOWK2ARisdEM9SnJd0ccfcwNPG6Po+RiKn5L2hg==
+tas-client-umd@0.1.5:
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/tas-client-umd/-/tas-client-umd-0.1.5.tgz#743c02e344afdec55a68bb9d62805e30a1ae83d4"
+  integrity sha512-NL9eFzYBBHfiYja6tP27084j4YbqtGEk68C5BTyTNHapsM9dizZ/RoSUGst5L1xUiw1zO1WbHf4Lir2e/wgT8g==
 
 universalify@^0.1.0:
   version "0.1.2"
