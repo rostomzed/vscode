@@ -201,8 +201,8 @@
     "vscode:prepublish": "node ../../node_modules/gulp/bin/gulp.js --gulpfile ../../build/gulpfile.extensions.js compile-extension:vscode-api-tests ./tsconfig.json"
   },
   "devDependencies": {
-    "@types/mocha": "^8.2.0",
-    "@types/node": "14.x"
+    "@types/mocha": "8.2.0",
+    "@types/node": "14.14.43"
   },
   "repository": {
     "type": "git",
