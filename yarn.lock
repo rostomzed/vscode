@@ -3839,7 +3839,7 @@ event-stream@3.3.4, event-stream@^3.3.4:
     stream-combiner "~0.0.4"
     through "~2.3.1"
 
-event-stream@~3.3.4:
+event-stream@3.3.5, event-stream@~3.3.4:
   version "3.3.5"
   resolved "https://registry.yarnpkg.com/event-stream/-/event-stream-3.3.5.tgz#e5dd8989543630d94c6cf4d657120341fa31636b"
   integrity sha512-vyibDcu5JL20Me1fP734QBH/kenBGLZap2n0+XXM7mvuUPzJ20Ydqj1aKcIeMdri1p+PU+4yAKugjN8KCVst+g==
