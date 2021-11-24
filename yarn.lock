@@ -760,10 +760,10 @@
   resolved "https://registry.yarnpkg.com/@types/semver/-/semver-5.5.0.tgz#146c2a29ee7d3bae4bf2fcb274636e264c813c45"
   integrity sha512-41qEJgBH/TWgo5NFSvBCJ1qkoi3Q6ONSF2avrHq1LVEZfYpdHmj0y9SuTK+u9ZhG1sYQKBL1AWXKyLWP4RaUoQ==
 
-"@types/sinon-test@^2.4.2":
-  version "2.4.2"
-  resolved "https://registry.yarnpkg.com/@types/sinon-test/-/sinon-test-2.4.2.tgz#f55bdf5486e7b7a4dd7257789fcc2b7b125c4164"
-  integrity sha512-3BX9mk5+o//Xzs5N4bFYxPT+QlPLrqbyNfDWkIGtk9pVIp2Nl8ctsIGXsY3F01DsCd1Zlin3FqAk6V5XqkCyJA==
+"@types/sinon-test@2.4.3":
+  version "2.4.3"
+  resolved "https://registry.yarnpkg.com/@types/sinon-test/-/sinon-test-2.4.3.tgz#1859c9a79f4e6c8a57f9d58a1ec15d6c62ed159f"
+  integrity sha512-3annZNBEw/RsAM8ZsQh0Vn1FrGYCd1vBoGgvmFe/utWFU+eUIVrZ8UC12VTlBRq5/wvn8a9qKE7Qb6ERdMksNg==
   dependencies:
     "@types/sinon" "*"
 
