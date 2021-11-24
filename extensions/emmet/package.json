@@ -500,7 +500,7 @@
     "deps": "yarn add @vscode/emmet-helper"
   },
   "devDependencies": {
-    "@types/node": "14.x"
+    "@types/node": "14.17.27"
   },
   "dependencies": {
     "@emmetio/abbreviation": "^2.2.0",
