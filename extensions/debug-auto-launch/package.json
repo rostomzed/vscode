@@ -36,7 +36,7 @@
     "vscode-nls": "^4.0.0"
   },
   "devDependencies": {
-    "@types/node": "14.x"
+    "@types/node": "14.17.34"
   },
   "prettier": {
     "printWidth": 100,
