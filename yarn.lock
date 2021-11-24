@@ -8974,10 +8974,10 @@ simple-swizzle@^0.2.2:
   dependencies:
     is-arrayish "^0.3.1"
 
-sinon-test@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/sinon-test/-/sinon-test-3.1.0.tgz#25a3f4d9a9deb172252407041d577d67b73fefd5"
-  integrity sha512-aGQwq6Xl9eJg/8Ugv4Ko4LQWUqjwRYNI8UtxnKa9hmcMEz3HBTR3nnzYrbW4isuRLsJWFuJTUcPGuz7f4XvODg==
+sinon-test@3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/sinon-test/-/sinon-test-3.1.1.tgz#df452f244fcf32a6a09c4c45e1d45fda976b69ca"
+  integrity sha512-1sM7QhfTGHXU8umSSyDyIQuAwPkUX2I0JK5WFcjzhChNxDYlVw5Vj0fGoJAaS/FvywKmN2U4YgGC/XqDKhYOTA==
 
 sinon@^11.1.1:
   version "11.1.1"
