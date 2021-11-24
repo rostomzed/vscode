@@ -35,7 +35,7 @@
     "@types/pump": "^1.0.1",
     "@types/request": "^2.47.0",
     "@types/rimraf": "^2.0.4",
-    "@types/through": "^0.0.29",
+    "@types/through": "0.0.30",
     "@types/through2": "^2.0.34",
     "@types/tmp": "^0.2.1",
     "@types/underscore": "^1.8.9",
